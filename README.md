@@ -1,1 +1,1 @@
-"# Generics_ObserverPattern" 
+# Generics_ObserverPattern 
